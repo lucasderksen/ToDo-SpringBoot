@@ -1,4 +1,4 @@
-package com.samarmohan.todosspringboot.todos;
+package com.lucas.todosspringboot.todos;
 
 
 import javax.persistence.*;

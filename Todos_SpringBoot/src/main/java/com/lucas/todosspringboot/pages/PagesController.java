@@ -1,4 +1,4 @@
-package com.samarmohan.todosspringboot.pages;
+package com.lucas.todosspringboot.pages;
 
 import org.springframework.web.bind.annotation.GetMapping;
 
